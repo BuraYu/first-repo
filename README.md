@@ -15,4 +15,5 @@ Today we are learning GitHub and Markdown. In the afternoon we will do a compute
 - second item
 - third item
   
-
+## link to page
+[Spice academy](www.google.de)
