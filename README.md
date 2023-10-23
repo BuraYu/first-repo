@@ -3,4 +3,16 @@ Today we are learning GitHub and Markdown. In the afternoon we will do a compute
 
 ## Sub title
 
-# Less important 
+### order list.
+
+1. First item
+2. Second item
+3. Third item
+
+### unorder list. 
+
+- first item
+- second item
+- third item
+  
+
